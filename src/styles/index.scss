@@ -1,7 +1,11 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
-@import '~bootstrap/dist/css/bootstrap.min.css';
+@import 'bootstrap/dist/css/bootstrap.min.css';
 @import 'variables';
 
 body {
   background-color: $favColor;
+  font-size: 2rem;
+}
+nav {
+  background-color: white;
 }
